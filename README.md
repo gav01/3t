@@ -97,3 +97,28 @@
 
 （发稿日期： 2017年10月21日）
 <hr>
+<h1 align="center"><b>真相传单：三退与平安（第305期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-10-10-toronto-thanksgiving_01--ss.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图1～4：二零一七年十月九日，多伦多法轮功学员组成的天国乐团参加了一年一度的基奇纳-滑铁卢慕尼黑啤酒节感恩节游行（Kitchener-Waterloo Oktoberfest Thanksgiving Day parade）。</td>
+</tr>
+</tbody>
+</table>
+  
+目录
+
+加拿大感恩节游行　观众赞法轮功辉煌<br>
+法官和企业老板都“三退”了<br>
+“敲门行动”让更多人看清了中共的邪恶<br>
+身边同事得福报<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-305-pdf.pdf">打印版：PDF压缩文件（732KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-305-doc.doc">编辑版/阅读版：WORD压缩文件（409KB）</a><br>
+
+（发稿日期： 2017年10月15日）
+<hr>
