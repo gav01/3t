@@ -2,7 +2,7 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><img src="img/2017-12-7-paris-eiffel-tower_02--ss.jpg" width=880></td>
+<td align="center"><img src="img/2017-12-7-paris-eiffel-tower_02.jpg" width=880></td>
 </tr>
 <tr>
 <td align="center">法轮功学员将“中共迫害法轮功的真相”和”三退保平安”的内容印在横幅上，方便过往游客驻足观看。</td>
@@ -42,16 +42,16 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_01--ss.jpg" width=880></td>
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_01.jpg" width=880></td>
 </tr>  
 <tr>  
-<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_02--ss.jpg" width=880></td>
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_02.jpg" width=880></td>
 </tr>
 <tr>  
-<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_03--ss.jpg" width=880></td>
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_03.jpg" width=880></td>
 </tr>
 <tr>  
-<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_04--ss.jpg" width=880></td>  
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_04.jpg" width=880></td>  
 </tr>
 <tr>
 <td align="center">在台湾 “国父纪念馆”真相景点上，一批又一批的大陆游客驻足观看真相展板</td>
@@ -76,7 +76,7 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><img src="img/2017-10-9-germany-freiburg-im-breisgau_01--ss.jpg" width=880></td>
+<td align="center"><img src="img/2017-10-9-germany-freiburg-im-breisgau_01.jpg" width=880></td>
 </tr>
 <tr>
 <td align="center">图：二零一七年十月七日，德国法轮功学员在著名旅游城市弗莱堡举办信息日，设立真相点，吸引各方民众驻足了解法轮功。</td>
@@ -101,7 +101,7 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><img src="img/2017-10-10-toronto-thanksgiving_01--ss.jpg" width=880></td>
+<td align="center"><img src="img/2017-10-10-toronto-thanksgiving_01.jpg" width=880></td>
 </tr>
 <tr>
 <td align="center">图：二零一七年十月七日，德国法轮功学员在著名旅游城市弗莱堡举办信息日，设立真相点，吸引各方民众驻足了解法轮功。</td>
@@ -146,4 +146,54 @@
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-304-doc.doc">编辑版/阅读版：WORD压缩文件（397KB）</a><br>
 
 （发稿日期： 2017年10月09日）
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第303期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-9-25-minghui-falun-gong-newzealand-01.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">人权律师Kerry Gore在演讲中</td>
+</tr>
+</tbody>
+</table>
+  
+目录
+
+新西兰庆祝两亿八千万中国人“三退”<br>
+政府官员：快用真名帮我退出中共邪党吧！<br>
+结束迫害刻不容缓<br>
+癌症晚期的二哥三个月痊愈<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-303-pdf.pdf">打印版：PDF压缩文件（979KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-303-doc.doc">编辑版/阅读版：WORD压缩文件（686KB）</a><br>
+
+（发稿日期： 2017年10月02日）
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第302期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-9-20-new-york-appealing_-01.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">2017年9月19日，纽约联合国大会期间，纽约法轮功学员在联合国附近和平请愿，要求中共停止迫害法轮功，法办江泽民。</td>
+</tr>
+</tbody>
+</table>
+  
+目录
+
+联合国大会期间　法轮功学员呼吁制止迫害<br>
+“你们法轮功说的活摘（器官）是真的呀！”<br>
+女士“三退”后说：“我很佩服法轮功，法轮功很坚强”<br>
+2.8亿中国人为啥“三退”<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-302-pdf.pdf">打印版：PDF压缩文件（727KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-302-doc.doc">编辑版/阅读版：WORD压缩文件（368KB）</a><br>
+
+（发稿日期： 2017年09月26日）
 <hr>
