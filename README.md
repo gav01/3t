@@ -104,7 +104,7 @@
 <td align="center"><img src="img/2017-10-10-toronto-thanksgiving_01--ss.jpg" width=880></td>
 </tr>
 <tr>
-<td align="center">图1～4：二零一七年十月九日，多伦多法轮功学员组成的天国乐团参加了一年一度的基奇纳-滑铁卢慕尼黑啤酒节感恩节游行（Kitchener-Waterloo Oktoberfest Thanksgiving Day parade）。</td>
+<td align="center">图：二零一七年十月七日，德国法轮功学员在著名旅游城市弗莱堡举办信息日，设立真相点，吸引各方民众驻足了解法轮功。</td>
 </tr>
 </tbody>
 </table>
@@ -121,4 +121,29 @@
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-305-doc.doc">编辑版/阅读版：WORD压缩文件（409KB）</a><br>
 
 （发稿日期： 2017年10月15日）
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第304期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-10-2-hongkong-10-1-rally_22.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">呼吁停止迫害、制止中共活摘器官、法办元凶，以及明智选择退党保平安。</td>
+</tr>
+</tbody>
+</table>
+  
+目录
+
+香港法轮功学员集会游行反迫害　大陆游客震撼<br>
+芬兰景点　中国游客“三退”<br>
+听懂真相　“当官的”纷纷“三退”得福报<br>
+打个比方讲道理<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-304-pdf.pdf">打印版：PDF压缩文件（745KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-304-doc.doc">编辑版/阅读版：WORD压缩文件（397KB）</a><br>
+
+（发稿日期： 2017年10月09日）
 <hr>
