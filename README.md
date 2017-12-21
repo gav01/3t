@@ -235,7 +235,7 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><img src="img/2017-9-2-sacromento-rally_04.jpg.jpg" width=880></td>
+<td align="center"><img src="img/2017-9-2-sacromento-rally_04.jpg" width=880></td>
 </tr>
 <tr>
 <td align="center">参议员安德森表示，迫害必须停止。</td>
@@ -245,7 +245,7 @@
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><img src="img/2017-9-2-sacromento-rally_05.jpg.jpg" width=880></td>
+<td align="center"><img src="img/2017-9-2-sacromento-rally_05.jpg" width=880></td>
 </tr>
 <tr>
 <td align="center">众议员沃佩尔表示，法轮功学员代表了人类最美好的品德。</td>
