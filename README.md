@@ -31,9 +31,9 @@
 为什么说“三退保平安”<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）<br>
-<hr>***
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-pdf.pdf">打印版：PDF压缩文件（555KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-doc.doc">编辑版/阅读版：WORD压缩文件（258KB）<br>
+<hr>
 <h1 align="center"><b>真相传单：三退与平安（第307期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
@@ -63,6 +63,6 @@
 “三退”是道德问题<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-307-pdf.pdf">打印版：PDF压缩文件（794KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-307-doc.doc">编辑版/阅读版：WORD压缩文件（512KB）</a><br>
 <hr>
