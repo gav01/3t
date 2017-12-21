@@ -24,7 +24,16 @@
 （发稿日期： 2017年12月12日）
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第308期）</b></h1>
-  
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/703242004061030.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图:2002年在贵州发现的“藏字石”断面上呈现“中国共产党亡”六个大字，昭示着“天灭中共”的天意。</td>
+</tr>
+</tbody>
+</table>  
 目录
 
 两亿九千万民众抛弃中共　中共末日来临<br>
