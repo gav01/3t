@@ -197,3 +197,71 @@
 
 （发稿日期： 2017年09月26日）
 <hr>
+<h1 align="center"><b>真相传单：三退与平安（第301期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-9-14-australia-canberra_01.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">澳洲法轮功学员连续在堪培拉国会大厦前的草地，举行集会</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-9-14-australia-canberra_06.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">澳洲绿党联邦参议员莱斯（Janet Rice）在集会现场演讲中</td>
+</tr>
+</tbody>
+</table>  
+目录
+
+法轮功学员在堪培拉国会山集会　澳参议员到场支持<br>
+重大车祸　女儿女婿平安无事<br>
+原彭德怀的部下退党<br>
+法轮功学员劝人“三退”是救人　不是搞政治<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-301-pdf.pdf">打印版：PDF压缩文件（789KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-301-doc.doc">编辑版/阅读版：WORD压缩文件（423KB）</a><br>
+
+（发稿日期： 2017年09月20日）
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第300期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-9-2-sacromento-rally_04.jpg.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">参议员安德森表示，迫害必须停止。</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-9-2-sacromento-rally_05.jpg.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">众议员沃佩尔表示，法轮功学员代表了人类最美好的品德。</td>
+</tr>
+</tbody>
+</table>  
+目录
+
+美国加州参议员：应站出来制止活摘器官<br>
+司机大声连喊三遍：我退！我退！我退！<br>
+肝癌患者康复记<br>
+“三退”——做个幸运之人<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-300-pdf.pdf">打印版：PDF压缩文件（591KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-300-doc.doc">编辑版/阅读版：WORD压缩文件（340KB）</a><br>
+
+（发稿日期： 2017年09月20日）
+<hr>
