@@ -18,5 +18,5 @@
 “三退”是道德问题<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf?raw=true">打印版：PDF压缩文件（710KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（363KB）<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）<br>
