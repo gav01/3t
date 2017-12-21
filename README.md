@@ -33,4 +33,36 @@
 （下载：)<br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-308-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-308-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）<br>
+<hr>***
+<h1 align="center"><b>真相传单：三退与平安（第307期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_01--ss.jpg" width=880></td>
+</tr>  
+<tr>  
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_02--ss.jpg" width=880></td>
+</tr>
+<tr>  
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_03--ss.jpg" width=880></td>
+</tr>
+<tr>  
+<td align="center"><img src="img/2017-10-23-taiwan-sun-yat-sen-memorial-hall_04--ss.jpg" width=880></td>  
+</tr>
+<tr>
+<td align="center">在台湾 “国父纪念馆”真相景点上，一批又一批的大陆游客驻足观看真相展板</td>
+</tr>  
+</tbody>
+</table>
+
+目录
+
+在巴黎的大陆游客：我们心里都知道法轮功好<br>
+退休医生家属揭露中共强摘法轮功学员器官的邪恶<br>
+国安部门的处长“三退”后想学法轮功<br>
+“三退”是道德问题<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）</a><br>
 <hr>
