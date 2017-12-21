@@ -19,7 +19,7 @@
 
 （下载：)<br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）</a><br>
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第308期）</b></h1>
   
