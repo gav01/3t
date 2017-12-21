@@ -20,3 +20,16 @@
 （下载：)<br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）<br>
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第308期）</b></h1>
+  
+目录
+
+两亿九千万民众抛弃中共　中共末日来临<br>
+丹麦“医生日”　中共活摘法轮功学员器官罪行被关注<br>
+单位领导全家“三退”得大福报<br>
+为什么说“三退保平安”<br>
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）<br>
+<hr>
