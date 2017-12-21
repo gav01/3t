@@ -20,6 +20,8 @@
 （下载：)<br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）</a><br>
+
+（发稿日期： 2017年12月12日）
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第308期）</b></h1>
   
@@ -33,6 +35,8 @@
 （下载：)<br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-308-pdf.pdf">打印版：PDF压缩文件（555KB）</a><br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-308-doc.doc">编辑版/阅读版：WORD压缩文件（258KB）<br>
+
+（发稿日期： 2017年11月27日）
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第307期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
@@ -57,12 +61,39 @@
 
 目录
 
-在巴黎的大陆游客：我们心里都知道法轮功好<br>
-退休医生家属揭露中共强摘法轮功学员器官的邪恶<br>
-国安部门的处长“三退”后想学法轮功<br>
-“三退”是道德问题<br>
+台湾国父纪念馆前　大陆游客了解真相<br>
+美国华盛顿大学举办《活摘》电影放映及讨论会<br>
+退休师级军官“三退”后　对我敬了两次军礼<br>
+看清中共的邪恶　不要再被欺骗<br>
 
 （下载：)<br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-307-pdf.pdf">打印版：PDF压缩文件（794KB）</a><br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-307-doc.doc">编辑版/阅读版：WORD压缩文件（512KB）</a><br>
+
+（发稿日期： 2017年11月22日）
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第306期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2017-10-9-germany-freiburg-im-breisgau_01--ss.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：二零一七年十月七日，德国法轮功学员在著名旅游城市弗莱堡举办信息日，设立真相点，吸引各方民众驻足了解法轮功。</td>
+</tr>
+</tbody>
+</table>
+  
+目录
+
+德国名城弗莱堡信息日　各界民众了解法轮功<br>
+肺癌晚期　“三退”后身体恢复健康<br>
+狱中讲真相　有缘人“三退”<br>
+“敲门行动”是违法犯罪<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-306-pdf.pdf">打印版：PDF压缩文件（551KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-306-doc.doc">编辑版/阅读版：WORD压缩文件（273KB）</a><br>
+
+（发稿日期： 2017年10月21日）
 <hr>
