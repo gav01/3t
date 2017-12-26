@@ -1,3 +1,37 @@
+<h1 align="center"><b>真相传单：三退与平安（第310期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/20171220-IMG_0977.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">美国共和党众议员史蒂夫·金（Steve King）说，法轮功学员只是想做好人，不应因此遭到中共迫害。</td>
+</tr>
+</tbody>
+<<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/33-600x400-1.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">美国国会及行政当局中国委员会（CECC）主席——国会参议员马可·卢比奥（Marco Rubio，左）和众议员克里斯·史密斯（Chris Smith，右）致信声援法轮功学员。</td>
+</tr>
+</tbody>
+</table>/table>
+
+目录
+
+美国国会研讨会谴责中共迫害法轮功　关注“三退”潮<br>
+诚念法轮大法好　骨瘤一夜之间不翼而飞<br>
+书记：“我退（党），我用真名退（党）”<br>
+只有声明“三退”废弃毒誓　才能拥有美好未来<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-310-pdf.pdf">打印版：PDF压缩文件（499KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-310-doc.doc">编辑版/阅读版：WORD压缩文件（267KB）</a><br>
+
+（发稿日期： 2017年12月5日）
+<hr>
 <h1 align="center"><b>真相传单：三退与平安（第309期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
