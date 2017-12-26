@@ -8,7 +8,7 @@
 <td align="center">美国共和党众议员史蒂夫·金（Steve King）说，法轮功学员只是想做好人，不应因此遭到中共迫害。</td>
 </tr>
 </tbody>
-<<table border="0" cellspacing="3" cellpadding="3">
+<table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
 <td align="center"><img src="img/33-600x400-1.jpg" width=880></td>
@@ -17,7 +17,7 @@
 <td align="center">美国国会及行政当局中国委员会（CECC）主席——国会参议员马可·卢比奥（Marco Rubio，左）和众议员克里斯·史密斯（Chris Smith，右）致信声援法轮功学员。</td>
 </tr>
 </tbody>
-</table>/table>
+</table>
 
 目录
 
