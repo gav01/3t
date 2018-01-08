@@ -1,4 +1,8 @@
 <a href="http://118.161.48.86"><IMG SRC="img/red-979573-1-600x400-0106-1.jpg" width=880></a><br>
++ <TD><b><a href='http://118.161.48.86/td'>視頻与下载</a></b><td><br> 
++ <a href='http://118.161.48.86/td/whytd.html'>为何要退出共产党、共青团、少先队？</a>
++ <a href='http://118.161.48.86/st'>我要三退</a>
+
 <h1 align="center"><b>真相传单：三退与平安（第310期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
