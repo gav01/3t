@@ -2,8 +2,8 @@
 + <TD><b><a href='http://114.43.33.190/td'>視頻与下载</a></b><td><br> 
 + <a href='http://114.43.33.190/td/whytd.html'>为何要退出共产党、共青团、少先队？</a>
 + <a href='http://114.43.33.190/st'>我要三退</a>
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true'>epub电子书</a>	
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
+
+
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
     - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
     - [桌机版17.04](https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
