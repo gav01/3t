@@ -31,6 +31,7 @@
     - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
     - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>   
     
+<hr>
 <h1 align="center"><b>真相传单：三退与平安（第310期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
