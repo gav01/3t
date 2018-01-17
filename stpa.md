@@ -50,8 +50,8 @@
 “三退”—— 不花一分钱的生命保险<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-pdf.pdf">PDF压缩文件（894KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-doc.doc">WORD压缩文件（496KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-pdf.pdf?raw=true">PDF压缩文件（894KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-doc.doc?raw=true">WORD压缩文件（496KB）</a><br>
 
 （发稿日期： 2018年01月12日）
 
