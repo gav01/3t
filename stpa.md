@@ -7,28 +7,54 @@
 共产主义来自何处？为什么宇宙中会冒出个共产党？共产主义的本质究竟是什么？结局又会怎样？对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。</b><br>
 </TR>
 <TR>
-<TD>下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
+<TD>下载全书：<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD>下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)</TD>
+<TD>下载：<a href="https://github.com/jigshu/3t/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)</TD>
 </TR>
 <TR>
-<TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com.apk?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单(一般智能手机都有支援ePub，安卓或苹果都可安装“掌阅iReader”这个APP，请自行注意安全)</TD>	
+<TD>下载：<a href="https://github.com/jigshu/3t/blob/master/download/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com.apk?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单(一般智能手机都有支援ePub，安卓或苹果都可安装“掌阅iReader”这个APP，请自行注意安全)</TD>	
 </TR>
 </div>
 </TABLE>
     
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
-    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
-    - [桌机版17.04](https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
-    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
-   - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
-    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
-    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>   
-    
++ <a href='https://github.com/jigshu/3t/blob/master/download/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
+    - <a href='https://github.com/jigshu/3t/blob/master/download/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
+    - [桌机版17.04](https://github.com/jigshu/3t/blob/master/download/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
++ <a href='https://github.com/jigshu/3t/blob/master/download/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
+    - <a href='https://github.com/jigshu/3t/blob/master/download/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
+   - <a href='https://github.com/jigshu/3t/blob/master/download/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
++ <a href='https://github.com/jigshu/3t/blob/master/download/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
++ <a href='https://github.com/jigshu/3t/blob/master/download/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
+    - <a href='https://github.com/jigshu/3t/blob/master/download/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
+    - <a href='https://github.com/jigshu/3t/blob/master/download/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>   
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第311期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-1-2-hongkong-rally-greetings_10.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">2018年一月一日香港法轮功学员大游行</td>
+</tr>
+</tbody>
+</table>
+  
+目录
+
+新年新希望　“三退”保平安<br>
+患骨髓癌的丈夫“三退”后康复了<br>
+退休公安官员说：我坚决支持法轮功 并干脆利落地“三退”<br>
+“三退”—— 不花一分钱的生命保险<br>
+
+（下载：)<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-pdf.pdf">PDF压缩文件（894KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-doc.doc">WORD压缩文件（496KB）</a><br>
+
+（发稿日期： 2018年01月12日）
+
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第310期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
