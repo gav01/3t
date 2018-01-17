@@ -85,8 +85,8 @@
 只有声明“三退”废弃毒誓　才能拥有美好未来<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-310-pdf.pdf">打印版：PDF压缩文件（499KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-310-doc.doc">编辑版/阅读版：WORD压缩文件（267KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-310-pdf.pdf?raw=true">打印版：PDF压缩文件（499KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-310-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（267KB）</a><br>
 
 （发稿日期： 2017年12月5日）
 <hr>
@@ -110,8 +110,8 @@
 “三退”是道德问题<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf">打印版：PDF压缩文件（710KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc">编辑版/阅读版：WORD压缩文件（363KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-pdf.pdf?raw=true">打印版：PDF压缩文件（710KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-309-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（363KB）</a><br>
 
 （发稿日期： 2017年12月12日）
 <hr>
@@ -134,8 +134,8 @@
 为什么说“三退保平安”<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-pdf.pdf">打印版：PDF压缩文件（555KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-doc.doc">编辑版/阅读版：WORD压缩文件（258KB）<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-pdf.pdf?raw=true">打印版：PDF压缩文件（555KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-308-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（258KB）<br>
 
 （发稿日期： 2017年11月27日）
 <hr>
@@ -168,8 +168,8 @@
 看清中共的邪恶　不要再被欺骗<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-307-pdf.pdf">打印版：PDF压缩文件（794KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-307-doc.doc">编辑版/阅读版：WORD压缩文件（512KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-307-pdf.pdf?raw=true">打印版：PDF压缩文件（794KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-307-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（512KB）</a><br>
 
 （发稿日期： 2017年11月22日）
 <hr>
@@ -193,8 +193,8 @@
 “敲门行动”是违法犯罪<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-306-pdf.pdf">打印版：PDF压缩文件（551KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-306-doc.doc">编辑版/阅读版：WORD压缩文件（273KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-306-pdf.pdf?raw=true">打印版：PDF压缩文件（551KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-306-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（273KB）</a><br>
 
 （发稿日期： 2017年10月21日）
 <hr>
@@ -218,8 +218,8 @@
 身边同事得福报<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-305-pdf.pdf">打印版：PDF压缩文件（732KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-305-doc.doc">编辑版/阅读版：WORD压缩文件（409KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-305-pdf.pdf?raw=true">打印版：PDF压缩文件（732KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-305-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（409KB）</a><br>
 
 （发稿日期： 2017年10月15日）
 <hr>
@@ -243,8 +243,8 @@
 打个比方讲道理<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-304-pdf.pdf">打印版：PDF压缩文件（745KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-304-doc.doc">编辑版/阅读版：WORD压缩文件（397KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-304-pdf.pdf?raw=true">打印版：PDF压缩文件（745KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-304-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（397KB）</a><br>
 
 （发稿日期： 2017年10月09日）
 <hr>
@@ -268,8 +268,8 @@
 癌症晚期的二哥三个月痊愈<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-303-pdf.pdf">打印版：PDF压缩文件（979KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-303-doc.doc">编辑版/阅读版：WORD压缩文件（686KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-303-pdf.pdf?raw=true">打印版：PDF压缩文件（979KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-303-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（686KB）</a><br>
 
 （发稿日期： 2017年10月02日）
 <hr>
@@ -293,8 +293,8 @@
 2.8亿中国人为啥“三退”<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-302-pdf.pdf">打印版：PDF压缩文件（727KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-302-doc.doc">编辑版/阅读版：WORD压缩文件（368KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-302-pdf.pdf?raw=true">打印版：PDF压缩文件（727KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-302-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（368KB）</a><br>
 
 （发稿日期： 2017年09月26日）
 <hr>
@@ -327,8 +327,8 @@
 法轮功学员劝人“三退”是救人　不是搞政治<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-301-pdf.pdf">打印版：PDF压缩文件（789KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-301-doc.doc">编辑版/阅读版：WORD压缩文件（423KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-301-pdf.pdf?raw=true">打印版：PDF压缩文件（789KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-301-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（423KB）</a><br>
 
 （发稿日期： 2017年09月20日）
 <hr>
@@ -361,8 +361,8 @@
 “三退”——做个幸运之人<br>
 
 （下载：)<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-300-pdf.pdf">打印版：PDF压缩文件（591KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-300-doc.doc">编辑版/阅读版：WORD压缩文件（340KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-300-pdf.pdf?raw=true">打印版：PDF压缩文件（591KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-300-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（340KB）</a><br>
 
 （发稿日期： 2017年09月20日）
 <hr>
