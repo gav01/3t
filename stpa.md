@@ -10,7 +10,7 @@
 <TD>下载全书：<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD>下载：<a href="https://github.com/jigshu/3t/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/jigshu/3t/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)
+<TD>下载：<a href="https://github.com/jigshu/3t/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/jigshu/3t/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)</a>，<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">新唐人电视台视频播报版 epub 下载</a>
 </TD>
 </TR>
 <TR>
@@ -18,17 +18,8 @@
 </TR>
 </div>
 </TABLE>
-    
-+ <a href='https://github.com/jigshu/3t/blob/master/download/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
-    - <a href='https://github.com/jigshu/3t/blob/master/download/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
-    - [桌机版17.04](https://github.com/jigshu/3t/blob/master/download/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
-+ <a href='https://github.com/jigshu/3t/blob/master/download/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
-    - <a href='https://github.com/jigshu/3t/blob/master/download/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
-   - <a href='https://github.com/jigshu/3t/blob/master/download/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
-+ <a href='https://github.com/jigshu/3t/blob/master/download/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
-+ <a href='https://github.com/jigshu/3t/blob/master/download/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
-    - <a href='https://github.com/jigshu/3t/blob/master/download/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
-    - <a href='https://github.com/jigshu/3t/blob/master/download/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a>   
+
+<a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880">
 
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第311期）</b></h1>
