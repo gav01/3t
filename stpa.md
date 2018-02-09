@@ -14,7 +14,7 @@
 </TD>
 </TR>
 <TR>
-<TD><a href="https://github.com/3fmd/gm/blob/master/epub.md">手机、电脑打开 epub 电子书方法介绍</a></TD>	
+<TD><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍</b></a></TD>	
 </TR>
 </div>
 </TABLE>
