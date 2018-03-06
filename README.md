@@ -1,5 +1,9 @@
-<IMG SRC="img/lian-0218.jpg" width=880></a><br>
+<IMG SRC="img/lian-0306.jpg" width=880></a><br>
 
+<IMG SRC="img/sy-IP-orange-0306.jpg" width=880><br>
+<a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a>
+<h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
+  
 <TABLE border="1">
 <div >	
 <TR>
@@ -10,7 +14,7 @@
 <TD>下载全书：<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD>下载音、视频 epub 电子书：<a href="https://github.com/jigshu/3t/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/jigshu/3t/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)</a>，<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">新唐人电视台视频播报版 epub 下载</a>
+<TD>下载音、视频 epub 电子书：<a href="https://github.com/jigshu/3t/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/jigshu/3t/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)</a>，<a href="https://github.com/jigshu/3t/blob/master/download/goalmp4Npf.epub?raw=true">新唐人电视台视频播报版 epub 下载</a>
 </TD>
 </TR>
 <TR>
