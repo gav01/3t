@@ -1,6 +1,6 @@
-<IMG SRC="img/lian-0325.jpg" width=880></a><br>
+<IMG SRC="img/lian-0329.jpg" width=880></a><br>
 
-<IMG SRC="img/sy-IP-orange-0325.jpg" width=880><br>
+<IMG SRC="img/sy-IP-orange-0329.jpg" width=880><br>
 
 <h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
   
