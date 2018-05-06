@@ -26,6 +26,32 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
 
 <hr>
+<h1 align="center"><b>真相传单：三退与平安（第316期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-3-20-hongkong-support-3yi_10.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：三月十八日，香港法轮功学员举行游行活动声援近三亿人“三退”，吸引许多香港市民与大陆游客驻足观看。</td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+三亿中华儿女“三退” 预示着中共末日将要来临<br>
+澳门法轮功学员声援三亿中国人“三退”<br>
+主流社会精英们全部站起来说：同意（三退）！干杯！<br>
+抓紧时间 弃恶从善 快快“三退”神保平安<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（750KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（369KB）</a><br>
+
+（发稿日期： 2018年03月28日）
+
+<hr>
 <h1 align="center"><b>真相传单：三退与平安（第315期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
@@ -50,7 +76,6 @@
 
 （发稿日期： 2018年03月19日）
 
------
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第313期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
