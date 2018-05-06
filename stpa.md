@@ -26,6 +26,29 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
 
 <hr>
+<h1 align="center"><b>真相传单：三退与平安（第317期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-4-7-san-francisco-3yi_04.jpg" width=880></td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+美国旧金山游行声援三亿人三退<br>
+曾经参与迫害的公安“三退” 并帮助法轮功学员<br>
+美国乔治亚州参议院通过决议案 谴责中共活摘器官<br>
+你发誓把生命献给幽灵了吗？<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（928KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（536KB）</a><br>
+
+（发稿日期： 2018年04月09日）
+
+<hr>
 <h1 align="center"><b>真相传单：三退与平安（第316期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
