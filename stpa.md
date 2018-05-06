@@ -26,6 +26,35 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
 
 <hr>
+<h1 align="center"><b>真相传单：三退与平安（第316期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-4-11-paris-santui_01.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：大陆游客在巴黎艾菲尔铁塔真相点观看揭露中共迫害法轮功的展板。</td>
+</tr>
+	<tr>
+<td align="center"><img src="img/0653350e41712a47a580b99e37d8b066-e1523098673809.jpg" width=880></td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+大陆游客在法国巴黎集体“三退”<br>
+庆三亿人“三退” 新西兰各界支持<br>
+丹麦议会就中共迫害法轮功举行专题答辩会<br>
+誓约与“三退”<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（695KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（325KB）</a><br>
+
+（发稿日期： 2018年04月18日）
+
+<hr>
 <h1 align="center"><b>真相传单：三退与平安（第317期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
