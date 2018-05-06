@@ -25,6 +25,33 @@
 
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880">
 
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第312期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-2-19-flashing-new-year-parade_01--ss.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：“全球退党服务中心”参加纽约法拉盛中国新年戊戌年大游行，给民众拜年、送福。</td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+法拉盛戊戌年大游行　全球退党服务中心送真福<br><br>
+我家亲友明白真相后“三退”得福报的故事<br>
+原中共高官秘书：我比你知道的多，你给我退党吧<br>
+“三退”才能在天灭中共的各种灾难中保平安<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-312-pdf.pdf?raw=true">PDF压缩文件（637KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-312-doc.doc?raw=true">WORD压缩文件（340KB）</a><br>
+
+（发稿日期： 2018年02月24日）
+
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第311期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
