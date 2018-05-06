@@ -26,6 +26,32 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
 
 <hr>
+<h1 align="center"><b>真相传单：三退与平安（第315期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-3-13-ny-brooklyn-3-yi_11-ss.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">2018年3月11日，近千名法轮功学员来到纽约第三大华人社区布碌伦第八大道举行盛大游行，传递“法轮大法好”、“天要灭中共 三退保平安”的天机。游行当日，有四十六人退出中共党团队，一百六十六人退出中共团队，三百四十九人退出中共少先队。</td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+“三退”人数接近三亿　民众感谢法轮功<br>
+美国洛杉矶夏威夷花园市通过反强摘器官宣言<br>
+“三退”才能有未来<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-315-pdf.pdf?raw=true">PDF压缩文件（712KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-315-doc.doc?raw=true">WORD压缩文件（363KB）</a><br>
+
+（发稿日期： 2018年03月19日）
+
+-----
+<hr>
 <h1 align="center"><b>真相传单：三退与平安（第313期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
@@ -47,7 +73,7 @@
 
 下载：<br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-313-pdf.pdf?raw=true">PDF压缩文件（631KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-313-pdf.pdf?raw=true">WORD压缩文件（285KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-313-doc.doc?raw=true">WORD压缩文件（285KB）</a><br>
 
 （发稿日期： 2018年03月04日）
 
