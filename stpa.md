@@ -98,7 +98,7 @@
 “三退”才能在天灭中共的各种灾难中保平安<br>
 
 下载：<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-312-pdf.pdf?raw=true">PDF压缩文件（637KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-pdf.pdf?raw=true">PDF压缩文件（637KB）</a><br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-312-doc.doc?raw=true">WORD压缩文件（340KB）</a><br>
 
 （发稿日期： 2018年02月24日）
@@ -246,6 +246,7 @@
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-307-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（512KB）</a><br>
 
 （发稿日期： 2017年11月22日）
+
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第306期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
