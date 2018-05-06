@@ -25,6 +25,29 @@
 
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
 
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第313期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-2-14-la-fair_01.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：法轮功学员设立的传播真相摊位，吸引了很多民众前来了解真相。</td>
+</tr>
+</tbody>
+</table>
+目录
+
+迎新年集市　美国洛杉矶法轮功学员传播真相<br>
+得知我赡养婆婆　当官的朋友们“三退”了<br>
+我的父亲死而复生了<br>
+三十六计 “退”为上策<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-313-pdf.pdf?raw=true">打印版：PDF压缩文件（631KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-313-pdf.pdf?raw=true">编辑版/阅读版：WORD压缩文件（285KB）</a><br>
+（发稿日期： 2018年03月04日）
 
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第312期）</b></h1>
