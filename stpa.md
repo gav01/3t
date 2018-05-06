@@ -26,7 +26,7 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
 
 <hr>
-<h1 align="center"><b>真相传单：三退与平安（第316期）</b></h1>
+<h1 align="center"><b>真相传单：三退与平安（第318期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
