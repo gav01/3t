@@ -1,6 +1,6 @@
-<IMG SRC="img/lian-0504.jpg" width=880></a><br>
+<IMG SRC="img/lian-0430.jpg" width=880></a><br>
 
-<IMG SRC="img/sy-IP-orange-0504.jpg" width=880><br>
+<IMG SRC="img/sy-IP-orange-0430.jpg" width=880><br>
 
 <h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
   
@@ -11,19 +11,195 @@
 共产主义来自何处？为什么宇宙中会冒出个共产党？共产主义的本质究竟是什么？结局又会怎样？对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。</b></td>
 </TR>
 <TR>
-<TD>下载全书：<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/jigshu/3t/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/jigshu/3t/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
+<TD>下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D-2018-0326update.zip?raw=true">简体字TXT文本</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D-2018-0326.epub_.zip?raw=true">正体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD>下载音、视频 epub 电子书：<a href="https://github.com/jigshu/3t/blob/master/download/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/jigshu/3t/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/jigshu/3t/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)</a>，<a href="https://github.com/jigshu/3t/blob/master/download/goalmp4Npf.epub?raw=true">新唐人电视台视频播报版 epub 下载</a>
-</TD>
+<TD>下载：<a href="https://github.com/pkey5/dj/blob/master/download/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/pkey5/dj/blob/master/download/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/pkey5/dj/blob/master/download/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) epub 下載，
+	<a href="https://github.com/pkey5/dj/blob/master/download/goal8K.zip?raw=true">希望之声声音档(mp3)，<a href="https://github.com/pkey5/dj/blob/master/download/goalmp4Npf.epub?raw=true">视频(链接)播报版 epub 下载</a>，<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md"> 12集(实体镶崁mp4播报版) epub 下載</a></TD>
 </TR>
 <TR>
-<TD><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍</b></a></TD>	
+<TD><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍。下载更多的免费(視頻、音頻、圖文) epub 电子书。</b></a></TD>	
 </TR>
 </div>
 </TABLE>
 
-<a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880">
+<a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第319期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/39eaff7f8142498636607fba79f983aa-600x400.jpg" width=880></td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+台湾民众声援三亿中国人“三退”<br>
+我为什么“三退”<br>
+十九年前的“四•二五”万人和平大上访<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（992KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（701KB）</a><br>
+
+（发稿日期： 2018年04月27日）
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第318期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-4-11-paris-santui_01.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：大陆游客在巴黎艾菲尔铁塔真相点观看揭露中共迫害法轮功的展板。</td>
+</tr>
+	<tr>
+<td align="center"><img src="img/0653350e41712a47a580b99e37d8b066-e1523098673809.jpg" width=880></td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+大陆游客在法国巴黎集体“三退”<br>
+庆三亿人“三退” 新西兰各界支持<br>
+丹麦议会就中共迫害法轮功举行专题答辩会<br>
+誓约与“三退”<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（695KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（325KB）</a><br>
+
+（发稿日期： 2018年04月18日）
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第317期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-4-7-san-francisco-3yi_04.jpg" width=880></td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+美国旧金山游行声援三亿人三退<br>
+曾经参与迫害的公安“三退” 并帮助法轮功学员<br>
+美国乔治亚州参议院通过决议案 谴责中共活摘器官<br>
+你发誓把生命献给幽灵了吗？<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（928KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（536KB）</a><br>
+
+（发稿日期： 2018年04月09日）
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第316期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-3-20-hongkong-support-3yi_10.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：三月十八日，香港法轮功学员举行游行活动声援近三亿人“三退”，吸引许多香港市民与大陆游客驻足观看。</td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+三亿中华儿女“三退” 预示着中共末日将要来临<br>
+澳门法轮功学员声援三亿中国人“三退”<br>
+主流社会精英们全部站起来说：同意（三退）！干杯！<br>
+抓紧时间 弃恶从善 快快“三退”神保平安<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（750KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（369KB）</a><br>
+
+（发稿日期： 2018年03月28日）
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第315期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-3-13-ny-brooklyn-3-yi_11-ss.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">2018年3月11日，近千名法轮功学员来到纽约第三大华人社区布碌伦第八大道举行盛大游行，传递“法轮大法好”、“天要灭中共 三退保平安”的天机。游行当日，有四十六人退出中共党团队，一百六十六人退出中共团队，三百四十九人退出中共少先队。</td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+“三退”人数接近三亿　民众感谢法轮功<br>
+美国洛杉矶夏威夷花园市通过反强摘器官宣言<br>
+“三退”才能有未来<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-315-pdf.pdf?raw=true">PDF压缩文件（712KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-315-doc.doc?raw=true">WORD压缩文件（363KB）</a><br>
+
+（发稿日期： 2018年03月19日）
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第313期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-2-14-la-fair_01.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：法轮功学员设立的传播真相摊位，吸引了很多民众前来了解真相。</td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+迎新年集市　美国洛杉矶法轮功学员传播真相<br>
+得知我赡养婆婆　当官的朋友们“三退”了<br>
+我的父亲死而复生了<br>
+三十六计 “退”为上策<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-313-pdf.pdf?raw=true">PDF压缩文件（631KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-313-doc.doc?raw=true">WORD压缩文件（285KB）</a><br>
+
+（发稿日期： 2018年03月04日）
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第312期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-2-19-flashing-new-year-parade_01--ss.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图：“全球退党服务中心”参加纽约法拉盛中国新年戊戌年大游行，给民众拜年、送福。</td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+法拉盛戊戌年大游行　全球退党服务中心送真福<br>
+我家亲友明白真相后“三退”得福报的故事<br>
+原中共高官秘书：我比你知道的多，你给我退党吧<br>
+“三退”才能在天灭中共的各种灾难中保平安<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-311-pdf.pdf?raw=true">PDF压缩文件（637KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-312-doc.doc?raw=true">WORD压缩文件（340KB）</a><br>
+
+（发稿日期： 2018年02月24日）
 
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第311期）</b></h1>
@@ -168,6 +344,7 @@
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-307-doc.doc?raw=true">编辑版/阅读版：WORD压缩文件（512KB）</a><br>
 
 （发稿日期： 2017年11月22日）
+
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第306期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
