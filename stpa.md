@@ -24,6 +24,27 @@
 </TABLE>
 
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第319期）</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-4-11-paris-santui_01.jpg" width=880></td>
+</tr>
+</tbody>
+</table>
+
+目录<br>
+
+台湾民众声援三亿中国人“三退”<br>
+我为什么“三退”<br>
+十九年前的“四•二五”万人和平大上访<br>
+
+下载：<br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（992KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（701KB）</a><br>
+
+（发稿日期： 2018年04月27日）
 
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第318期）</b></h1>
