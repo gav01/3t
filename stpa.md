@@ -41,8 +41,6 @@
 天要灭中共 “三退”保平安<br>
 
 下载：<br>
-打印版：
-编辑版/阅读版：
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-320-pdf.pdf?raw=true">PDF压缩文件（649KB）</a><br>
 <a href="https://github.com/jigshu/3t/blob/master/download/santui-320-doc.doc?raw=true">WORD压缩文件（373KB）</a><br>
 （发稿日期： 2018年05月12日）
