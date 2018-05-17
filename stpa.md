@@ -21,6 +21,32 @@
 </TABLE>
 
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880"></a>
+
+<hr>
+<h1 align="center"><b>真相传单：三退与平安（第320期）</b></h1>
+
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="img/2018-5-6-dc-celebrate-513_02.jpg" width=880></td>
+</tr>
+</tbody>
+</table>
+
+目录
+
+美国首都庆法轮大法日 “真善忍”福泽四方<br>
+越来越多的中国人选择“三退”了<br>
+英国议会大厦圆桌会议：立刻制止中共活摘暴行<br>
+天要灭中共 “三退”保平安<br>
+
+下载：<br>
+打印版：
+编辑版/阅读版：
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-320-pdf.pdf?raw=true">PDF压缩文件（649KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-320-doc.doc?raw=true">WORD压缩文件（373KB）</a><br>
+（发稿日期： 2018年05月12日）
+
 <hr>
 <h1 align="center"><b>真相传单：三退与平安（第319期）</b></h1>
 <table border="0" cellspacing="3" cellpadding="3">
@@ -38,8 +64,8 @@
 十九年前的“四•二五”万人和平大上访<br>
 
 下载：<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（992KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（701KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-319-pdf.pdf?raw=true">PDF压缩文件（992KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-319-doc.doc?raw=true">WORD压缩文件（701KB）</a><br>
 
 （发稿日期： 2018年04月27日）
 
@@ -67,8 +93,8 @@
 誓约与“三退”<br>
 
 下载：<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（695KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（325KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-318-pdf.pdf?raw=true">PDF压缩文件（695KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-318-doc.doc?raw=true">WORD压缩文件（325KB）</a><br>
 
 （发稿日期： 2018年04月18日）
 
@@ -90,8 +116,8 @@
 你发誓把生命献给幽灵了吗？<br>
 
 下载：<br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-pdf.pdf?raw=true">PDF压缩文件（928KB）</a><br>
-<a href="https://github.com/jigshu/3t/blob/master/download/santui-316-doc.doc?raw=true">WORD压缩文件（536KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-317-pdf.pdf?raw=true">PDF压缩文件（928KB）</a><br>
+<a href="https://github.com/jigshu/3t/blob/master/download/santui-317-doc.doc?raw=true">WORD压缩文件（536KB）</a><br>
 
 （发稿日期： 2018年04月09日）
 
