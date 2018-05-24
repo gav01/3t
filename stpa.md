@@ -1,4 +1,4 @@
-<IMG SRC="img-2/0524.jpg" width=880></a><br>
+<IMG SRC="img-2/0524-2.jpg" width=880></a><br>
   
 <TABLE border="1">
 <div >	
